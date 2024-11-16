@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><book_store><category>
+								<id>11</id>
+								<name>Alan phan</name>
+								<picture>0tbnp9o8.png</picture>
+							</category><category>
+								<id>12</id>
+								<name>Đầu tư</name>
+								<picture>mluq6vxw.png</picture>
+							</category><category>
+								<id>13</id>
+								<name>Marketing</name>
+								<picture>slzr5qcm.png</picture>
+							</category><category>
+								<id>14</id>
+								<name>Phát triển bản thân</name>
+								<picture>5c0bzqja.png</picture>
+							</category><category>
+								<id>15</id>
+								<name>Kinh doanh</name>
+								<picture>kawq6ulh.png</picture>
+							</category></book_store>
